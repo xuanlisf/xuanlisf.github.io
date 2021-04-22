@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tech, Product Marketing, and Misc.</title>
-    <link>https://xuanli.me/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Tech, Product Marketing, and Misc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 21:52:50 -0700</lastBuildDate><atom:link href="https://xuanli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 21:52:50 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Chinese as an ABC</title>
-      <link>https://xuanli.me/posts/learning-chinese-as-an-abc/</link>
+      <link>/posts/learning-chinese-as-an-abc/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
       
-      <guid>https://xuanli.me/posts/learning-chinese-as-an-abc/</guid>
+      <guid>/posts/learning-chinese-as-an-abc/</guid>
       <description>Ok, so I&amp;rsquo;m not really an ABC (American Born Chinese). I was born in Beijing, but I came to the US when I was 5 so I think that&amp;rsquo;s pretty close. I speak Mandarin / Chinglish mostly with my parents over the phone and sometimes at restaurants. I love watching Chinese movies, TV shows, and YouTube videos though sometimes I don&amp;rsquo;t understand the parts of the dialogue. I prefer having subtitles on even if I can comprehend most of it.</description>
     </item>
     
     <item>
       <title>java散列知识点总结</title>
-      <link>https://xuanli.me/posts/2017-02-18-hash/</link>
+      <link>/posts/2017-02-18-hash/</link>
       <pubDate>Sat, 18 Feb 2017 19:19:01 +0000</pubDate>
       
-      <guid>https://xuanli.me/posts/2017-02-18-hash/</guid>
+      <guid>/posts/2017-02-18-hash/</guid>
       <description>java 的根类 Object 具有 hashcode 方法。当 equal 方法被重写时也应当重写 hashcode 方法。
 基本数据类型的散列码  byte short int char 类型的搜索键将会转换为 int。 float 类型的搜索键使用 Float.floatToIntBits(key) 作为散列码。 long 类型的搜索键会进行折叠操作，如下：  iny hashCode = (int) (key ^ (key &amp;gt;&amp;gt; 32));  double 类型的搜索键会使用 Double.doubleToLongBits(key) 方法转换为 long 类型然后再进行折叠。  字符串类型的散列码 对于字符串一般使用多项式散列码进行计算，
 这里放个公式的图
@@ -32,10 +32,10 @@ public static int hash(String key, int tableSize) { int hashVal = 0; for (int i 
     
     <item>
       <title>幸せ</title>
-      <link>https://xuanli.me/posts/2016-10-22-z/</link>
+      <link>/posts/2016-10-22-z/</link>
       <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
       
-      <guid>https://xuanli.me/posts/2016-10-22-z/</guid>
+      <guid>/posts/2016-10-22-z/</guid>
       <description>:-)
 Look at the stars
 抬头仰望满天繁星

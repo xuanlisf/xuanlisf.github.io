@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech, Product Marketing, and Misc.</title>
-    <link>https://xuanli.me/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Tech, Product Marketing, and Misc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 21:52:50 -0700</lastBuildDate><atom:link href="https://xuanli.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 21:52:50 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chinese</title>
-      <link>https://xuanli.me/tags/chinese/</link>
+      <link>/tags/chinese/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
       
-      <guid>https://xuanli.me/tags/chinese/</guid>
+      <guid>/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mandarin</title>
-      <link>https://xuanli.me/tags/mandarin/</link>
+      <link>/tags/mandarin/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
       
-      <guid>https://xuanli.me/tags/mandarin/</guid>
+      <guid>/tags/mandarin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>https://xuanli.me/tags/algorithms/</link>
+      <link>/tags/algorithms/</link>
       <pubDate>Sat, 18 Feb 2017 19:19:01 +0000</pubDate>
       
-      <guid>https://xuanli.me/tags/algorithms/</guid>
+      <guid>/tags/algorithms/</guid>
       <description></description>
     </item>
     

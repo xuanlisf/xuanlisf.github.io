@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xuanli.me/tags/chinese/</loc>
+    <loc>/tags/chinese/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/posts/learning-chinese-as-an-abc/</loc>
+    <loc>/posts/learning-chinese-as-an-abc/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/tags/mandarin/</loc>
+    <loc>/tags/mandarin/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/</loc>
+    <loc>/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/tags/algorithms/</loc>
+    <loc>/tags/algorithms/</loc>
     <lastmod>2017-02-18T19:19:01+00:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/posts/2017-02-18-hash/</loc>
+    <loc>/posts/2017-02-18-hash/</loc>
     <lastmod>2017-02-18T19:19:01+00:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2016-10-22T16:56:54+00:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/categories/life/</loc>
+    <loc>/categories/life/</loc>
     <lastmod>2016-10-22T16:56:54+00:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/posts/2016-10-22-z/</loc>
+    <loc>/posts/2016-10-22-z/</loc>
     <lastmod>2016-10-22T16:56:54+00:00</lastmod>
   </url><url>
-    <loc>https://xuanli.me/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url>
 </urlset>
