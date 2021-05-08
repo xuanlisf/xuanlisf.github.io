@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 21:52:50 -0700</lastBuildDate><atom:link href="https://xuanli.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 May 2021 22:14:35 -0700</lastBuildDate><atom:link href="https://xuanli.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About This Site</title>
+      <link>https://xuanli.me/posts/about-this-site/</link>
+      <pubDate>Fri, 07 May 2021 22:14:35 -0700</pubDate>
+      
+      <guid>https://xuanli.me/posts/about-this-site/</guid>
+      <description>I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the Way Back Machine.
+May 2021 We&amp;rsquo;re Live! This is what the site looks like at launch. I have a ton of things on my to-do list of cosmetic changes, but I still need to figure out how to make these changes with Hugo.</description>
+    </item>
+    
     <item>
       <title>Learning Chinese as an ABC</title>
       <link>https://xuanli.me/posts/learning-chinese-as-an-abc/</link>

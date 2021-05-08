@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xuanli.me/posts/about-this-site/</loc>
+    <lastmod>2021-05-07T22:14:35-07:00</lastmod>
+  </url><url>
+    <loc>https://xuanli.me/posts/</loc>
+    <lastmod>2021-05-07T22:14:35-07:00</lastmod>
+  </url><url>
+    <loc>https://xuanli.me/tags/</loc>
+    <lastmod>2021-05-07T22:14:35-07:00</lastmod>
+  </url><url>
+    <loc>https://xuanli.me/</loc>
+    <lastmod>2021-05-07T22:14:35-07:00</lastmod>
+  </url><url>
+    <loc>https://xuanli.me/tags/web-dev/</loc>
+    <lastmod>2021-05-07T22:14:35-07:00</lastmod>
+  </url><url>
     <loc>https://xuanli.me/tags/chinese/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
     <loc>https://xuanli.me/tags/mandarin/</loc>
-    <lastmod>2021-04-07T21:52:50-07:00</lastmod>
-  </url><url>
-    <loc>https://xuanli.me/posts/</loc>
-    <lastmod>2021-04-07T21:52:50-07:00</lastmod>
-  </url><url>
-    <loc>https://xuanli.me/tags/</loc>
-    <lastmod>2021-04-07T21:52:50-07:00</lastmod>
-  </url><url>
-    <loc>https://xuanli.me/</loc>
     <lastmod>2021-04-07T21:52:50-07:00</lastmod>
   </url><url>
     <loc>https://xuanli.me/tags/algorithms/</loc>
