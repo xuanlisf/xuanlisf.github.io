@@ -1,0 +1,23 @@
+
+@font-face {
+  font-style: normal;
+  font-family: "Roboto";
+  src: local("Roboto"), url("/fonts/roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.tooltipped::after {
+  font-family: "Roboto";
+}
+
+pre {
+  font-family: "Roboto";
+}
+
+.highlight{
+  font-family: "Roboto";
+}
