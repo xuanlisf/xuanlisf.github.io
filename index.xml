@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech, Product Marketing, and Misc.</title>
+    <title>Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/</link>
-    <description>Recent content on Tech, Product Marketing, and Misc.</description>
+    <description>Recent content on Hi, I&#39;m Xuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
@@ -15,7 +15,7 @@
       
       <guid>https://xuanli.me/posts/about-this-site/</guid>
       <description>I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the Way Back Machine.
-May 2021 We&amp;rsquo;re Live! This is what the site looks like at launch. I have a ton of things on my to-do list of cosmetic changes, but I still need to figure out how to make these changes with Hugo.</description>
+May 17, 2021 Increasing the font-size has been a bit of a pain. Unfortunately, the creator used a mix of absolute and relative font sizing in the CSS.</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Your skin</description>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
       <guid>https://xuanli.me/about/</guid>
-      <description>Hi, I&amp;rsquo;m Xuan (pronounced Schwinn) I live in San Francisco and work as a Product Marketer at Lyft. I started this blog as a way to practice some of the web dev concepts I had learned for fun as well as write longer posts about various topics. I admire people who write consistently and are able to clearly articulate a certain idea or give me a glimpse of a different life.</description>
+      <description>Pronounced Schwinn, like the bike I live in San Francisco and work as a Product Marketer at Lyft. I started this blog as a way to practice some of the web dev concepts I had learned for fun as well as write longer posts about various topics. I admire people who write consistently and are able to clearly articulate a certain idea or give me a glimpse of a different life.</description>
     </item>
     
   </channel>
