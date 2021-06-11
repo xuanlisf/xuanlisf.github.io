@@ -6,16 +6,6 @@
     <description>Recent content in Categories on Hi, I&#39;m Xuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Xuan Li</copyright>
-    <lastBuildDate>Sat, 22 Oct 2016 16:56:54 +0000</lastBuildDate><atom:link href="https://xuanli.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>life</title>
-      <link>https://xuanli.me/categories/life/</link>
-      <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
-      
-      <guid>https://xuanli.me/categories/life/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Xuan Li</copyright><atom:link href="https://xuanli.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
