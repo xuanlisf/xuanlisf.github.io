@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>startup on Hi, I&#39;m Xuan</title>
+    <link>https://xuanli.me/tags/startup/</link>
+    <description>Recent content in startup on Hi, I&#39;m Xuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Xuan Li</copyright>
+    <lastBuildDate>Sat, 31 Jul 2021 11:04:27 -0700</lastBuildDate><atom:link href="https://xuanli.me/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons from a startup that translated into Big Tech</title>
+      <link>https://xuanli.me/posts/lessons-from-a-startup/</link>
+      <pubDate>Sat, 31 Jul 2021 11:04:27 -0700</pubDate>
+      
+      <guid>https://xuanli.me/posts/lessons-from-a-startup/</guid>
+      <description>Our startup at an offsite where we graffitied a wall in SF
+Before joining Lyft, I worked at a YC startup for several years in Business Development, Growth, and Product Marketing roles. I was employee #18 when I joined and we eventually grew to ~40 people before being acquired by Lyft in 2017. We built a good product with millions of app installs, but we never found a path to becoming a billion-dollar business.</description>
+    </item>
+    
+  </channel>
+</rss>
