@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Basics of Positioning | Hi, I&#39;m Xuan</title>
+  <meta name="description" content="I live in San Francisco and am a Product Marketer at Lyft.  Previously I worked at an early stage consumer startup (YC &#39;12) and did a few years in investment banking. After many years of having &#39;build a personal site&#39; on my to-do list, I finally decided to launch this when I had some time off work. It was a fun way to practice web dev and encourage myself to write more about topics that I care about. If you find any of this is interesting, don&#39;t hesitate to reach out!">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Basics of Positioning" />
+<meta property="og:description" content="Positioning is a word that is thrown around a lot and seems to morph into whatever vague definition the speaker wants it to mean. Sometimes it’s used to describe aspects of a marketing campaign and other times it’s used in competitive landscape discussions. I’ve thought about positioning a lot recently at my job and I wanted to put together a basic guide on positioning within the Tech world.
+There are lots of definitions of positioning:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://xuanli.me/posts/basics-of-positioning/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-01-14T23:16:28-08:00" />
+<meta property="article:modified_time" content="2022-01-14T23:16:28-08:00" />
+
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Basics of Positioning"/>
+<meta name="twitter:description" content="Positioning is a word that is thrown around a lot and seems to morph into whatever vague definition the speaker wants it to mean. Sometimes it’s used to describe aspects of a marketing campaign and other times it’s used in competitive landscape discussions. I’ve thought about positioning a lot recently at my job and I wanted to put together a basic guide on positioning within the Tech world.
+There are lots of definitions of positioning:"/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://xuanli.me/css/style-white.css">
+  
+   <link rel="stylesheet" href="https://xuanli.me/css/custom.css"> 
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://xuanli.me/images/favicon.ico" />
+
+  
+  
+  
+  
+  
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-195029153-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  
+  
+</head>
+
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+  <div id="header-post">
+  <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Posts</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        <li>
+          <a class="icon" href=" https://xuanli.me/posts/lessons-from-a-startup/">
+            <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+            <i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i>
+          </a>
+        </li>
+        <li>
+          <a class="icon" href="#">
+            <i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i>
+          </a>
+        </li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Previous post</span>
+      <span id="i-next" class="info" style="display:none;">Next post</span>
+      <span id="i-top" class="info" style="display:none;">Back to top</span>
+      <span id="i-share" class="info" style="display:none;">Share post</span>
+    </span>
+    <br/>
+    <div id="share" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f">
+      <i class="fab fa-facebook " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&text=Basics%20of%20Positioning">
+      <i class="fab fa-twitter " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-linkedin " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&is_video=false&description=Basics%20of%20Positioning">
+      <i class="fab fa-pinterest " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Basics%20of%20Positioning&body=Check out this article: https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f">
+      <i class="fas fa-envelope " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-get-pocket " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-reddit " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&name=Basics%20of%20Positioning&description=Positioning%20is%20a%20word%20that%20is%20thrown%20around%20a%20lot%20and%20seems%20to%20morph%20into%20whatever%20vague%20definition%20the%20speaker%20wants%20it%20to%20mean.%20Sometimes%20it%e2%80%99s%20used%20to%20describe%20aspects%20of%20a%20marketing%20campaign%20and%20other%20times%20it%e2%80%99s%20used%20in%20competitive%20landscape%20discussions.%20I%e2%80%99ve%20thought%20about%20positioning%20a%20lot%20recently%20at%20my%20job%20and%20I%20wanted%20to%20put%20together%20a%20basic%20guide%20on%20positioning%20within%20the%20Tech%20world.%0aThere%20are%20lots%20of%20definitions%20of%20positioning%3a">
+      <i class="fab fa-tumblr " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&t=Basics%20of%20Positioning">
+      <i class="fab fa-hacker-news " aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+    <div id="toc">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pain-points">Pain Point(s)</a></li>
+    <li><a href="#product">Product</a></li>
+    <li><a href="#competition">Competition</a></li>
+    <li><a href="#convergence">Convergence</a></li>
+    <li><a href="#conclusion-and-other-considerations">Conclusion and Other Considerations</a></li>
+  </ul>
+</nav>
+    </div>
+  </span>
+</div>
+
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="posttitle" itemprop="name headline">
+        Basics of Positioning
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2022-01-14 23:16:28 -0800 PST" itemprop="datePublished">2022-01-14</time>
+          
+        </div>
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/on-the-job" rel="tag">on-the-job</a>
+            
+        </div>
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>Positioning is a word that is thrown around a lot and seems to morph into whatever vague definition the speaker wants it to mean. Sometimes it’s used to describe aspects of a marketing campaign and other times it’s used in competitive landscape discussions. I’ve thought about positioning a lot recently at my job and I wanted to put together a basic guide on positioning within the Tech world.</p>
+<p>There are lots of definitions of positioning:</p>
+<ul>
+<li><a href="https://www.ries.com/positioning-pioneers/">Al Reis and Jack Trout</a> originally defined it as a way to have your brand stand out in a customer’s mind in an “over-communicated society”.</li>
+<li><a href="https://youtu.be/3jRoYh8xL_U?t=708">April Dunford</a> says: “Positioning defines how our product is BEST IN THE WORLD at providing SOME VALUE that a well-defined set of CUSTOMERS cares a LOT about.”</li>
+</ul>
+<p>I view positioning as an internal definition of how you want customers to view your product in relation to your competitors. You can use positioning to create external-facing copy and messaging, but the positioning itself should help align the internal team on what you’re building.</p>
+<p>The 3 main vectors to triangulate in order to arrive at the positioning are:
+<img src="/images/basics-of-positioning/positioning-triangle.png" alt="img"></p>
+<h1 id="pain-points">Pain Point(s)</h1>
+<p>The first and arguably most important piece of the positioning puzzle is pinpointing which pain point(s) your customers are facing. Being clear about the pain point your product is solving will help you decide which pieces of the value prop to highlight.</p>
+<p>Is the pain point you&rsquo;ve chosen something that is top of mind for your customer or do you need to help them realize that it is a problem (category creation)?</p>
+<ul>
+<li><strong>Top-of-mind pain point example:</strong> Shipping fees are expensive if I don&rsquo;t meet the minimum purchase amount. Solution: Amazon Prime (circa 2005).</li>
+</ul>
+<p><img src="/images/basics-of-positioning/amazonprime.png" alt="img">
+Amazon Prime announcement email</p>
+<ul>
+<li><strong>Category creation example:</strong> A user enjoys cycling class (Soul Cycle), but finds it to be too expensive to go often. Solution: Peloton&rsquo;s membership model that provides unlimited classes.</li>
+</ul>
+<p>I would consider Peloton &lsquo;category creation&rsquo; because users weren&rsquo;t thinking about a Peloton-like solution to solve their cost problem. That pain point would have been solved more directly with a Soul Cycle loyalty program, bundle of classes for a discount, etc.</p>
+<p>Solving a top-of-mind problem is usually easier because people are actively searching for a solution. The challenge becomes differentiating yourself in a crowded marketplace given that the pain point is not new. On the other hand, category creation is risky because you have to build a product that people don&rsquo;t realize they need. The reward can be massive because you&rsquo;d be the de facto leader in the space if your solution works.</p>
+<h1 id="product">Product</h1>
+<p>Next, take a close look at your product and be honest about the value proposition. These are some questions to ask yourself as you think about which aspects of your product to highlight.</p>
+<ul>
+<li><strong>How does your product solve the customer pain point?</strong> Ideally, you were laser-focused in building your product to solve a specific customer pain point. Think through not only the features of your product but also <em>how they will make the customer feel</em>.
+<ul>
+<li>Taking the Amazon example: The free 2-day shipping feature on Prime saves customers money on shipping costs. However, I would argue that the real value is in not having to think about shipping costs with every online purchase. It makes people feel like they’ve simplified a part of their life.</li>
+</ul>
+</li>
+<li><strong>What does your product do that is actually differentiated?</strong> Many products could be trying to solve the same problem - how is yours different?</li>
+<li><strong>How is it best-in-class?</strong> Your product doesn’t need to do <em>everything,</em> but it does need to do at least one thing extremely well. Pick the aspect or feature that is truly best-in-class and build positioning around it. Obviously, it needs to be a feature that customers actually care about.</li>
+</ul>
+<h1 id="competition">Competition</h1>
+<p>Finally, consider your competitors in this space and how they currently position themselves. Where is there whitespace and what position can your product &lsquo;own&rsquo; in the customers’ minds? The nuance here is that it’s more about customer perception than a pure product comparison.</p>
+<p>The 5th Law from the <a href="https://www.amazon.com/22-Immutable-Laws-Marketing-Violate/dp/0887306667">22 Immutable Laws of Marketing</a> is the “The Law of Focus”. It states that in consumers' minds, two companies can’t both be the leader of a specific category (or positioning in this case).</p>
+<p>If a competitor already owns the positioning that you want, there are two options:</p>
+<ol>
+<li>Go head to head and compete for that position in the consumers' minds. This is expensive and takes a long time.</li>
+<li>Own a slightly different positioning and be the leader for it.</li>
+</ol>
+<ul>
+<li><strong>Example:</strong> Patagonia owns the &lsquo;sustainable outdoor clothing&rsquo; category in customers' minds. If North Face wants to also own that position they&rsquo;ll need to spend significant amounts on advertising, change the manufacturing processes for their clothing, sponsor athletes, and more in order to take that position in customers’ minds. Even if they did all of that, it would still take time and sustained investment before they would dethrone Patagonia. The alternative could be to try to own a different position such as “best value for sustainable outdoor clothing” or “most durable outdoor clothing”. They could demonstrate how their clothes are longest-lasting or provide a great warranty to drive this home. [image]</li>
+</ul>
+<p>Consider if you have the credibility to deliver on your intended positioning from a customer’s perspective. Having credibility in the space will strengthen your positioning because it allows a user to quickly believe you rather than needing to build that reputation over time. This isn’t a necessity for positioning, but it can be a barrier to adoption.</p>
+<ul>
+<li><strong>Example</strong>: Google Stadia’s struggles have been <a href="https://www.theverge.com/2021/2/26/22303496/google-stadia-struggle-wired-bloomberg-reports-studios">well</a> <a href="https://arstechnica.com/gaming/2021/02/report-stadia-undershot-to-the-tune-of-hundreds-of-thousands-of-users/">documented</a> and from a marketing perspective, I believe that it’s at least partially due to the lack of credibility that Google has in the gaming space. There was a lot of excitement around this new game streaming technology and Google was able to own that space since they were the first mover. However, asking gamers to buy hardware from a company that has never been in the game industry was a tough sell. 4 years later, Microsoft launched a comparable service in <a href="https://news.xbox.com/en-us/2021/08/09/xbox-cloud-gaming-beta-available-for-insiders-through-the-xbox-app-for-windows/">Xbox Cloud Gaming</a> that uses similar technology. It has only been available for ~5 months as of this writing, but I believe that Microsoft will find more success in acquiring users. This is a simplistic example due to the differences in user experience, existing user base, gaming library, content acquisition costs, etc, but I believe lack of credibility was one of the barriers Google ran into purely from a marketing / positioning perspective.</li>
+<li><strong>Example:</strong> Car manufacturers in Japan began trying to produce luxury cars in the 1980s. Companies like Toyota and Honda had a reputation for building cheap yet reliable products, but they didn’t have the credibility of being a luxury manufacturer in consumers’ minds. Instead of trying to transform their brands into luxury brands (and thereby losing the existing ‘cheap but reliable’ place), they created new brands like Lexus and Acura to sell their luxury cars.</li>
+</ul>
+<h1 id="convergence">Convergence</h1>
+<p>Your positioning statement should be a convergence of these three elements. Having only two means that you’re missing a crucial element that will impact the effectiveness of the positioning. Selling your product without specifying a pain point, without highlighting specific strengths of your product, or while oblivious to the competition will lead to customers not grasping the value of your offering. Like Al Reis said in the 70s - we live in an over-communicated society and customers are inundated with marketing messages. The right positioning (with the right elements) will help you cut through.</p>
+<p>So what does a positioning statement actually look like? In my opinion, it doesn’t really matter as long as you’ve thought through those 3 key elements. I view positioning as an internal tool to drive alignment - it doesn’t need to be perfectly copy-written or follow a specific template.</p>
+<p>Here’s an example of Airtable’s potential positioning: Airtable provides the most flexible and user-friendly way for small businesses to organize information.</p>
+<p><img src="/images/basics-of-positioning/airtable.png" alt="img">
+From Airtable’s website</p>
+<ul>
+<li><strong>Pain point:</strong> Most spreadsheet programs are limited in data types and inflexible with the ways to present information.</li>
+<li><strong>Product:</strong> Airtable allows users to add anything into the spreadsheet cells including files, images, etc. They can then turn that spreadsheet into a calendar, event planning, product roadmap, etc.</li>
+<li><strong>Competition:</strong> Excel and Google sheets are the biggest direct competitors, but they each own different parts of the spreadsheet pie.  Excel leans more corporation heavy, spreadsheets more startup or individual. In a way, Airtable also competes with Trello, JIRA, and others.</li>
+</ul>
+<h1 id="conclusion-and-other-considerations">Conclusion and Other Considerations</h1>
+<p>As the title of the post indicates, this is truly just the basics of positioning - a good starting point to build off of.  There are numerous other aspects you could consider such as:</p>
+<ul>
+<li><strong>Segmentation</strong> - Different positioning depending on audience segment.</li>
+<li><strong>Near term and long term</strong> - Positionings can and should change depending on the evolution of your product, customer needs, competition, etc.</li>
+<li><strong>Laddering up</strong> - The positioning for your product can align with the broader company positioning.</li>
+</ul>
+<p>One thing to remember is that positioning is not a static element.  Competitors will introduce new products, adjacent companies may enter your space, or a pain point that was once acute is no longer top of mind for customers. Happy positioning!</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/posts">Posts</a></li>
+         
+          <li><a href="/about">About</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pain-points">Pain Point(s)</a></li>
+    <li><a href="#product">Product</a></li>
+    <li><a href="#competition">Competition</a></li>
+    <li><a href="#convergence">Convergence</a></li>
+    <li><a href="#conclusion-and-other-considerations">Conclusion and Other Considerations</a></li>
+  </ul>
+</nav>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&text=Basics%20of%20Positioning">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&is_video=false&description=Basics%20of%20Positioning">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Basics%20of%20Positioning&body=Check out this article: https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&title=Basics%20of%20Positioning">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&name=Basics%20of%20Positioning&description=Positioning%20is%20a%20word%20that%20is%20thrown%20around%20a%20lot%20and%20seems%20to%20morph%20into%20whatever%20vague%20definition%20the%20speaker%20wants%20it%20to%20mean.%20Sometimes%20it%e2%80%99s%20used%20to%20describe%20aspects%20of%20a%20marketing%20campaign%20and%20other%20times%20it%e2%80%99s%20used%20in%20competitive%20landscape%20discussions.%20I%e2%80%99ve%20thought%20about%20positioning%20a%20lot%20recently%20at%20my%20job%20and%20I%20wanted%20to%20put%20together%20a%20basic%20guide%20on%20positioning%20within%20the%20Tech%20world.%0aThere%20are%20lots%20of%20definitions%20of%20positioning%3a">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fxuanli.me%2fposts%2fbasics-of-positioning%2f&t=Basics%20of%20Positioning">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+      
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2022  Xuan Li 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Posts</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+</body>
+
+<link rel="stylesheet" href=/lib/font-awesome/css/all.min.css>
+<script src=/lib/jquery/jquery.min.js></script>
+<script src=/js/main.js></script>
+
+
+
+</html>
