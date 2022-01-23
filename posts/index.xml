@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Fri, 14 Jan 2022 23:16:28 -0800</lastBuildDate><atom:link href="https://xuanli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 14:25:10 -0800</lastBuildDate><atom:link href="https://xuanli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Workflow</title>
+      <link>https://xuanli.me/posts/blog-workflow/</link>
+      <pubDate>Sun, 23 Jan 2022 14:25:10 -0800</pubDate>
+      
+      <guid>https://xuanli.me/posts/blog-workflow/</guid>
+      <description>For people who don’t create websites regularly, the process of setting up a blog and writing consistently and figuring out how to use products like Hugo and GitHub can be daunting. I hope this can shed some light on what my setup is and provide some useful resources to get started.
+To be honest, I’m writing this post because it’s been a few months since I’ve published a blog post and I’ve started to forget all of the necessary steps and commands.</description>
+    </item>
+    
     <item>
       <title>Basics of Positioning</title>
       <link>https://xuanli.me/posts/basics-of-positioning/</link>
