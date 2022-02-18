@@ -128,3 +128,7 @@ pre {
 .highlight{
   font-family: "Roboto";
 }
+
+code {
+  background-color: lightgray;
+}
