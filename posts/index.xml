@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Sun, 23 Jan 2022 14:25:10 -0800</lastBuildDate><atom:link href="https://xuanli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 10:02:28 -0700</lastBuildDate><atom:link href="https://xuanli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go to Market Template for Consumer Products</title>
+      <link>https://xuanli.me/posts/go-to-market-template/</link>
+      <pubDate>Wed, 16 Aug 2023 10:02:28 -0700</pubDate>
+      
+      <guid>https://xuanli.me/posts/go-to-market-template/</guid>
+      <description>This template is designed to help consumer Product Marketers communicate their launch strategy to internal stakeholders. My former manager would always say: “this document should be a waterfall - each section should logically flow into the next.” For example, after defining the user pain points and key insight, the messaging framework should seem like it’s addressing those specific pain points. Having this logical progression makes it easier for teammates to follow along and understand the plan.</description>
+    </item>
+    
     <item>
       <title>Blog Workflow</title>
       <link>https://xuanli.me/posts/blog-workflow/</link>
