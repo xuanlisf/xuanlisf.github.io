@@ -153,5 +153,6 @@ code {
 }
 
 .content p {
-  margin-block-end: 0rem;
+  margin-block-start: 0.2rem;
+  margin-block-end: 0.2rem;
 }
