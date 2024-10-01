@@ -4,81 +4,66 @@
     <title>Tags on Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/tags/</link>
     <description>Recent content in Tags on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate><atom:link href="https://xuanli.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate>
+    <atom:link href="https://xuanli.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gen-AI</title>
+      <title>Gen-AI</title>
       <link>https://xuanli.me/tags/gen-ai/</link>
       <pubDate>Thu, 21 Sep 2023 13:54:46 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/gen-ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>great-product-marketing</title>
+      <title>Great-Product-Marketing</title>
       <link>https://xuanli.me/tags/great-product-marketing/</link>
       <pubDate>Tue, 29 Aug 2023 08:40:57 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/great-product-marketing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>on-the-job</title>
+      <title>On-the-Job</title>
       <link>https://xuanli.me/tags/on-the-job/</link>
       <pubDate>Tue, 29 Aug 2023 08:40:57 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/on-the-job/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web-dev</title>
+      <title>Web-Dev</title>
       <link>https://xuanli.me/tags/web-dev/</link>
       <pubDate>Sun, 23 Jan 2022 14:25:10 -0800</pubDate>
-      
       <guid>https://xuanli.me/tags/web-dev/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>career</title>
+      <title>Career</title>
       <link>https://xuanli.me/tags/career/</link>
       <pubDate>Sat, 31 Jul 2021 11:04:27 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/career/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>startup</title>
+      <title>Startup</title>
       <link>https://xuanli.me/tags/startup/</link>
       <pubDate>Sat, 31 Jul 2021 11:04:27 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/startup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chinese</title>
+      <title>Chinese</title>
       <link>https://xuanli.me/tags/chinese/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/chinese/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mandarin</title>
+      <title>Mandarin</title>
       <link>https://xuanli.me/tags/mandarin/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
-      
       <guid>https://xuanli.me/tags/mandarin/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

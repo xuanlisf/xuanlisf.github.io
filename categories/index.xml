@@ -4,8 +4,9 @@
     <title>Categories on Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/categories/</link>
     <description>Recent content in Categories on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Xuan Li</copyright><atom:link href="https://xuanli.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Xuan Li</copyright>
+    <atom:link href="https://xuanli.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

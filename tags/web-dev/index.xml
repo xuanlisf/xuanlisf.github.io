@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web-dev on Hi, I&#39;m Xuan</title>
+    <title>Web-Dev on Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/tags/web-dev/</link>
-    <description>Recent content in web-dev on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Web-Dev on Hi, I&#39;m Xuan</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Sun, 23 Jan 2022 14:25:10 -0800</lastBuildDate><atom:link href="https://xuanli.me/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 14:25:10 -0800</lastBuildDate>
+    <atom:link href="https://xuanli.me/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Workflow</title>
       <link>https://xuanli.me/posts/blog-workflow/</link>
       <pubDate>Sun, 23 Jan 2022 14:25:10 -0800</pubDate>
-      
       <guid>https://xuanli.me/posts/blog-workflow/</guid>
-      <description>For people who don’t create websites regularly, the process of setting up a blog and writing consistently and figuring out how to use products like Hugo and GitHub can be daunting. I hope this can shed some light on what my setup is and provide some useful resources to get started.
-To be honest, I’m writing this post because it’s been a few months since I’ve published a blog post and I’ve started to forget all of the necessary steps and commands.</description>
+      <description>&lt;p&gt;For people who don’t create websites regularly, the process of setting up a blog and writing consistently and figuring out how to use products like Hugo and GitHub can be daunting. I hope this can shed some light on what my setup is and provide some useful resources to get started.&lt;/p&gt;&#xA;&lt;p&gt;To be honest, I’m writing this post because it’s been a few months since I’ve published a blog post and I’ve started to forget all of the necessary steps and commands. This post started out as a way of documenting the steps and specific commands in Terminal for Hugo and GitHub, but I figured it would be a good opportunity to write about my overall workflow as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About This Site</title>
       <link>https://xuanli.me/posts/about-this-site/</link>
       <pubDate>Fri, 07 May 2021 22:14:35 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/about-this-site/</guid>
-      <description>I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the Way Back Machine.
-May 17, 2021 Increasing the font-size has been a bit of a pain. Unfortunately, the creator used a mix of absolute and relative font sizing in the CSS.</description>
+      <description>&lt;p&gt;I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the &lt;a href=&#34;https://archive.org/web/&#34;&gt;Way Back Machine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;may-17-2021&#34;&gt;May 17, 2021&lt;/h2&gt;&#xA;&lt;p&gt;Increasing the font-size has been a bit of a pain. Unfortunately, the creator used a mix of absolute and relative font sizing in the CSS. So while some fonts scale up after changing the main font from size 14 -&amp;gt; size 16, others remained small. It took a bit of time to go through and update.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

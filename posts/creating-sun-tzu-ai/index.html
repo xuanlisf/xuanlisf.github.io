@@ -4,23 +4,27 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> Creating Sun-Tzu AI | Hi, I&#39;m Xuan</title>
-  <meta name="description" content="I live in San Francisco and am a Product Marketer at Lyft.  Previously I worked at an early stage consumer startup (YC &#39;12) and did a few years in investment banking. After many years of having &#39;build a personal site&#39; on my to-do list, I finally decided to launch this when I had some time off work. It was a fun way to practice web dev and encourage myself to write more about topics that I care about. If you find any of this is interesting, don&#39;t hesitate to reach out!">
+  <meta name="description" content="I live in San Francisco and am a Product Marketer at Meta.  Previously I worked at Lyft, an early stage consumer startup (YC &#39;12), and did a few years in investment banking. After many years of having &#39;build a personal site&#39; on my to-do list, I finally decided to launch this when I had some time off work. It was a fun way to practice web dev and encourage myself to write more about topics that I care about. If you find any of this is interesting, don&#39;t hesitate to reach out!">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
-  <meta property="og:title" content="Creating Sun-Tzu AI" />
-<meta property="og:description" content="As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
-I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://xuanli.me/posts/creating-sun-tzu-ai/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2023-09-21T13:54:46-07:00" />
-<meta property="article:modified_time" content="2023-09-21T13:54:46-07:00" />
+  <meta property="og:url" content="https://xuanli.me/posts/creating-sun-tzu-ai/">
+  <meta property="og:site_name" content="Hi, I&#39;m Xuan">
+  <meta property="og:title" content="Creating Sun-Tzu AI">
+  <meta property="og:description" content=" As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
+I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python. That’s when it struck me. Hey… I know a bit of Python (‘a bit’ being the keyword here)! I took a SQL class several years ago where Python was used a little. Even though I can’t code with Python, between the basic webdev skills used to create this blog and the SQL Python lessons, I figured I’d give creating a GenAI bot a shot.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-09-21T13:54:46-07:00">
+    <meta property="article:modified_time" content="2023-09-21T13:54:46-07:00">
+    <meta property="article:tag" content="Gen-AI">
 
-
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Creating Sun-Tzu AI"/>
-<meta name="twitter:description" content="As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
-I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python."/>
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Creating Sun-Tzu AI">
+  <meta name="twitter:description" content=" As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
+I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python. That’s when it struck me. Hey… I know a bit of Python (‘a bit’ being the keyword here)! I took a SQL class several years ago where Python was used a little. Even though I can’t code with Python, between the basic webdev skills used to create this blog and the SQL Python lessons, I figured I’d give creating a GenAI bot a shot.">
 
   
   
@@ -41,22 +45,6 @@ I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steams
 <link rel="icon" type="image/png" href="https://xuanli.me/images/favicon.ico" />
 
   
-  
-  
-  
-  
-    
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-195029153-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
   
   
 </head>
@@ -152,7 +140,7 @@ if (!doNotTrack) {
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fcreating-sun-tzu-ai%2f&name=Creating%20Sun-Tzu%20AI&description=As%20a%20Product%20Marketer%20who%20has%20been%20interested%20in%20AI%20and%20the%20latest%20evolutions%20of%20GenAI%2c%20I%20wasn%e2%80%99t%20sure%20how%20to%20be%20a%20creator%20rather%20than%20a%20consumer%20of%20AI.%20Sure%2c%20I%20talked%20to%20ChatGPT%20from%20time%20to%20time%2c%20used%20midjourney%20to%20generate%20images%20for%20my%20blog%2c%20but%20I%e2%80%99ve%20never%20really%20%e2%80%98built%e2%80%99%20anything.%0aI%20was%20watching%20a%20Stanford%20CS50%20talk%20on%20GPT-4%20where%20Ted%20Benson%20%28founder%20of%20Steamship%29%20described%20how%20easy%20it%20is%20to%20create%20a%20simple%20application%20using%20GPT%20technology%2c%20provided%20you%20know%20a%20bit%20of%20Python.">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fcreating-sun-tzu-ai%2f&name=Creating%20Sun-Tzu%20AI&description=%3cp%3e%3cimg%20src%3d%22%2fimages%2fsun-tzu%2fsun-tzu.png%22%20alt%3d%22img%22%3e%0aAs%20a%20Product%20Marketer%20who%20has%20been%20interested%20in%20AI%20and%20the%20latest%20evolutions%20of%20GenAI%2c%20I%20wasn%e2%80%99t%20sure%20how%20to%20be%20a%20creator%20rather%20than%20a%20consumer%20of%20AI.%20Sure%2c%20I%20talked%20to%20ChatGPT%20from%20time%20to%20time%2c%20used%20midjourney%20to%20generate%20images%20for%20my%20blog%2c%20but%20I%e2%80%99ve%20never%20really%20%e2%80%98built%e2%80%99%20anything.%3c%2fp%3e%0a%3cp%3eI%20was%20watching%20a%20Stanford%20CS50%20talk%20on%20GPT-4%20where%20Ted%20Benson%20%28founder%20of%20Steamship%29%20described%20how%20easy%20it%20is%20to%20create%20a%20simple%20application%20using%20GPT%20technology%2c%20provided%20you%20know%20a%20bit%20of%20Python.%20That%e2%80%99s%20when%20it%20struck%20me.%20Hey%e2%80%a6%20I%20know%20a%20bit%20of%20Python%20%28%e2%80%98a%20bit%e2%80%99%20being%20the%20keyword%20here%29%21%20I%20took%20a%20SQL%20class%20several%20years%20ago%20where%20Python%20was%20used%20a%20little.%20Even%20though%20I%20can%e2%80%99t%20code%20with%20Python%2c%20between%20the%20basic%20webdev%20skills%20used%20to%20create%20this%20blog%20and%20the%20SQL%20Python%20lessons%2c%20I%20figured%20I%e2%80%99d%20give%20creating%20a%20GenAI%20bot%20a%20shot.%3c%2fp%3e">
       <i class="fab fa-tumblr " aria-hidden="true"></i>
     </a>
   </li>
@@ -217,7 +205,7 @@ As a Product Marketer who has been interested in AI and the latest evolutions of
 <h1 id="the-art-of-prompting">The Art of Prompting</h1>
 <p>I went through several versions of the Prompt in order for the responses from AI to actually sound like Sun-Tzu. Similar to GenAI image programs like midjourney, there&rsquo;s a huge variance in results depending on how good your prompt is. There’s never a ‘right answer’ but you can usually tell if you’re moving closer or further away from your ideal end state.  This skill will soon be the GenZ version of google-fu - prompt masters will be able to get faster, more accurate AI results compared to those of lesser skill.</p>
 <p>I set up a Python Virtual environment and started testing different changes to the ‘personality’ of Sun-Tzu. This was the end result for the Prompt:</p>
-<pre><code>You are Sun Tzu, Military Strategist during the Eastern Zhou period of ancient China.
+<pre tabindex="0"><code>You are Sun Tzu, Military Strategist during the Eastern Zhou period of ancient China.
 
 Who you are:
 
@@ -246,17 +234,17 @@ Only use the functions you have been provided with.
 <p><a href="https://sun-tzu.xuanli.me/">Sun-Tzu AI is live here!</a> It was amazing to see how quickly I could launch a GPT app using a low-code program like Steamship. The first time I saw results from Sun-Tzu was quite a rush - I was so impressed with how relevant the response was to my question. GPT was able to answer my outlandish question about running while tying it back to the principles from The Art of War. I’m excited to see what AI can unlock in the coming years. If someone with my abilities can quickly create a decent app like this, the playing field is wide open for anyone.</p>
 <p>Some fun results:</p>
 <p><strong>Q: What do I do if I’m tired on a run?</strong></p>
-<pre><code>A: In the context of war, fatigue is a foe to be conquered. As a runner, you are in essence, a warrior against your own limitations. Do not fight against the fatigue, instead, embrace it. Recognize it as a sign that you are pushing your boundaries, and in doing so, growing stronger.
+<pre tabindex="0"><code>A: In the context of war, fatigue is a foe to be conquered. As a runner, you are in essence, a warrior against your own limitations. Do not fight against the fatigue, instead, embrace it. Recognize it as a sign that you are pushing your boundaries, and in doing so, growing stronger.
 
-However, also understand that the wise warrior knows when to rest. If you push yourself beyond your limits without adequate recovery, you risk injury and defeat. Therefore, pace yourself wisely, rest when necessary, and remember, &quot;The supreme art of war is to subdue the enemy without fighting.&quot; In this case, the enemy is not the run itself, but your own limitations.
+However, also understand that the wise warrior knows when to rest. If you push yourself beyond your limits without adequate recovery, you risk injury and defeat. Therefore, pace yourself wisely, rest when necessary, and remember, &#34;The supreme art of war is to subdue the enemy without fighting.&#34; In this case, the enemy is not the run itself, but your own limitations.
 
 In essence, understand your capacity, push your boundaries, but also know when to rest. The balance between exertion and recovery is key to victory.
 </code></pre><p><strong>Q: Should I forgive my friend who has deeply hurt me?</strong></p>
-<pre><code>A: In the realm of conflict, one must first seek understanding before seeking resolution. If your friend has caused you deep pain, it is important to communicate your feelings and seek their perspective. However, remember this wisdom from the Art of War: &quot;He will win who knows when to fight and when not to fight.&quot; Forgiveness is not a sign of weakness, but a strategy of strength. It allows you to free yourself from the burden of resentment and move forward. But it does not mean you should forget the lessons learned from the hurt caused.
+<pre tabindex="0"><code>A: In the realm of conflict, one must first seek understanding before seeking resolution. If your friend has caused you deep pain, it is important to communicate your feelings and seek their perspective. However, remember this wisdom from the Art of War: &#34;He will win who knows when to fight and when not to fight.&#34; Forgiveness is not a sign of weakness, but a strategy of strength. It allows you to free yourself from the burden of resentment and move forward. But it does not mean you should forget the lessons learned from the hurt caused.
 </code></pre><p><strong>Q: Is an apple or orange more delicious?</strong></p>
-<pre><code>A: Ah, the taste of an apple or an orange, much like the outcome of a battle, is subjective and depends on one's personal preferences and experiences.
+<pre tabindex="0"><code>A: Ah, the taste of an apple or an orange, much like the outcome of a battle, is subjective and depends on one&#39;s personal preferences and experiences.
 
-In the Art of War, I have said, &quot;Know yourself and know your enemy, and in a hundred battles, you will never be in peril.&quot; In this case, knowing yourself means understanding your own tastes and preferences.
+In the Art of War, I have said, &#34;Know yourself and know your enemy, and in a hundred battles, you will never be in peril.&#34; In this case, knowing yourself means understanding your own tastes and preferences.
 
 If you find the crisp sweetness of an apple more pleasing, then to you, the apple is more delicious. If the tangy juiciness of an orange is more to your liking, then the orange is superior in your eyes.
 
@@ -342,7 +330,7 @@ The key is to understand your preferences, for in doing so, you can make the bes
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fcreating-sun-tzu-ai%2f&name=Creating%20Sun-Tzu%20AI&description=As%20a%20Product%20Marketer%20who%20has%20been%20interested%20in%20AI%20and%20the%20latest%20evolutions%20of%20GenAI%2c%20I%20wasn%e2%80%99t%20sure%20how%20to%20be%20a%20creator%20rather%20than%20a%20consumer%20of%20AI.%20Sure%2c%20I%20talked%20to%20ChatGPT%20from%20time%20to%20time%2c%20used%20midjourney%20to%20generate%20images%20for%20my%20blog%2c%20but%20I%e2%80%99ve%20never%20really%20%e2%80%98built%e2%80%99%20anything.%0aI%20was%20watching%20a%20Stanford%20CS50%20talk%20on%20GPT-4%20where%20Ted%20Benson%20%28founder%20of%20Steamship%29%20described%20how%20easy%20it%20is%20to%20create%20a%20simple%20application%20using%20GPT%20technology%2c%20provided%20you%20know%20a%20bit%20of%20Python.">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fxuanli.me%2fposts%2fcreating-sun-tzu-ai%2f&name=Creating%20Sun-Tzu%20AI&description=%3cp%3e%3cimg%20src%3d%22%2fimages%2fsun-tzu%2fsun-tzu.png%22%20alt%3d%22img%22%3e%0aAs%20a%20Product%20Marketer%20who%20has%20been%20interested%20in%20AI%20and%20the%20latest%20evolutions%20of%20GenAI%2c%20I%20wasn%e2%80%99t%20sure%20how%20to%20be%20a%20creator%20rather%20than%20a%20consumer%20of%20AI.%20Sure%2c%20I%20talked%20to%20ChatGPT%20from%20time%20to%20time%2c%20used%20midjourney%20to%20generate%20images%20for%20my%20blog%2c%20but%20I%e2%80%99ve%20never%20really%20%e2%80%98built%e2%80%99%20anything.%3c%2fp%3e%0a%3cp%3eI%20was%20watching%20a%20Stanford%20CS50%20talk%20on%20GPT-4%20where%20Ted%20Benson%20%28founder%20of%20Steamship%29%20described%20how%20easy%20it%20is%20to%20create%20a%20simple%20application%20using%20GPT%20technology%2c%20provided%20you%20know%20a%20bit%20of%20Python.%20That%e2%80%99s%20when%20it%20struck%20me.%20Hey%e2%80%a6%20I%20know%20a%20bit%20of%20Python%20%28%e2%80%98a%20bit%e2%80%99%20being%20the%20keyword%20here%29%21%20I%20took%20a%20SQL%20class%20several%20years%20ago%20where%20Python%20was%20used%20a%20little.%20Even%20though%20I%20can%e2%80%99t%20code%20with%20Python%2c%20between%20the%20basic%20webdev%20skills%20used%20to%20create%20this%20blog%20and%20the%20SQL%20Python%20lessons%2c%20I%20figured%20I%e2%80%99d%20give%20creating%20a%20GenAI%20bot%20a%20shot.%3c%2fp%3e">
       <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
     </a>
   </li>
@@ -373,7 +361,7 @@ The key is to understand your preferences, for in doing so, you can make the bes
 
   <footer id="footer">
   <div class="footer-left">
-    Copyright  &copy; 2023  Xuan Li 
+    Copyright  &copy; 2024  Xuan Li 
   </div>
   <div class="footer-right">
     <nav>

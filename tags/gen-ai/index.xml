@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gen-AI on Hi, I&#39;m Xuan</title>
+    <title>Gen-AI on Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/tags/gen-ai/</link>
-    <description>Recent content in gen-AI on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Gen-AI on Hi, I&#39;m Xuan</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate><atom:link href="https://xuanli.me/tags/gen-ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate>
+    <atom:link href="https://xuanli.me/tags/gen-ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Sun-Tzu AI</title>
       <link>https://xuanli.me/posts/creating-sun-tzu-ai/</link>
       <pubDate>Thu, 21 Sep 2023 13:54:46 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/creating-sun-tzu-ai/</guid>
-      <description>As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
-I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/sun-tzu/sun-tzu.png&#34; alt=&#34;img&#34;&gt;&#xA;As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.&lt;/p&gt;&#xA;&lt;p&gt;I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python. That’s when it struck me. Hey… I know a bit of Python (‘a bit’ being the keyword here)! I took a SQL class several years ago where Python was used a little. Even though I can’t code with Python, between the basic webdev skills used to create this blog and the SQL Python lessons, I figured I’d give creating a GenAI bot a shot.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

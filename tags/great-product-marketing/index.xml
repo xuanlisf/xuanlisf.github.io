@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>great-product-marketing on Hi, I&#39;m Xuan</title>
+    <title>Great-Product-Marketing on Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/tags/great-product-marketing/</link>
-    <description>Recent content in great-product-marketing on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Great-Product-Marketing on Hi, I&#39;m Xuan</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Tue, 29 Aug 2023 08:40:57 -0700</lastBuildDate><atom:link href="https://xuanli.me/tags/great-product-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 08:40:57 -0700</lastBuildDate>
+    <atom:link href="https://xuanli.me/tags/great-product-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Great Product Marketing: Airbnb’s 2021 Winter Release</title>
       <link>https://xuanli.me/posts/great-pmm-airbnb/</link>
       <pubDate>Tue, 29 Aug 2023 08:40:57 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/great-pmm-airbnb/</guid>
-      <description>When people say “Product Marketing”, Apple and Steve Jobs are often the first names that pop up. Apple shaped how modern technology products are marketed and Steve Jobs was the driving force. Their bi-annual Apple events where they announce the soon-to-be-released products and their annual developers conference (WWDC) continue to be the most watched product releases in the world.
-It should come as no surprise then that Airbnb started releasing their updates in a similar way after hiring many of Apple’s marketing executives.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/great-pmm/airbnb-cover.png&#34; alt=&#34;img&#34;&gt;&#xA;When people say “Product Marketing”, Apple and Steve Jobs are often the first names that pop up. Apple shaped how modern technology products are marketed and Steve Jobs was the driving force. Their bi-annual Apple events where they announce the soon-to-be-released products and their annual developers conference (WWDC) continue to be the most watched product releases in the world.&lt;/p&gt;&#xA;&lt;p&gt;It should come as no surprise then that Airbnb started releasing their updates in a similar way after hiring many of Apple’s marketing executives. However, Apple’s influence on Airbnb goes beyond marketing: co-founders Brian Chesky and Joe Gebbia both came from design backgrounds and have stated the impact that Apple’s philosophy had on their lives.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Great Product Marketing: 2021 Ford Bronco</title>
       <link>https://xuanli.me/posts/great-pmm-bronco/</link>
       <pubDate>Thu, 12 Jan 2023 09:40:22 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/great-pmm-bronco/</guid>
-      <description>Vintage bronco, made with Midjourney
-This is the first in a series of Great Product Marketing posts where I dive into a company’s product marketing that I love. I find myself looking at the details of product launches, trying to piece together the Messaging Framework, and thinking about how it all came together.
-The Ford Bronco relaunched to much fanfare and excitement in 2021. People had been cooped up inside due to the pandemic and wanted to be outside again.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/great-pmm/bronco-ai.png&#34; alt=&#34;img&#34;&gt;&#xA;&lt;em&gt;Vintage bronco, made with Midjourney&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the first in a series of &lt;a href=&#34;https://www.xuanli.me/tags/great-product-marketing/&#34;&gt;Great Product Marketing&lt;/a&gt; posts where I dive into a company’s product marketing that I love. I find myself looking at the details of product launches, trying to piece together the Messaging Framework, and thinking about how it all came together.&lt;/p&gt;&#xA;&lt;p&gt;The Ford Bronco relaunched to much fanfare and excitement in 2021. People had been cooped up inside due to the pandemic and wanted to be outside again. National Parks were getting overrun with visitors and campsites were getting booked up instantly - the timing was perfect to reintroduce the off-road capable, sporty Bronco.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

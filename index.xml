@@ -4,128 +4,94 @@
     <title>Hi, I&#39;m Xuan</title>
     <link>https://xuanli.me/</link>
     <description>Recent content on Hi, I&#39;m Xuan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Xuan Li</copyright>
-    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate><atom:link href="https://xuanli.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 13:54:46 -0700</lastBuildDate>
+    <atom:link href="https://xuanli.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Sun-Tzu AI</title>
       <link>https://xuanli.me/posts/creating-sun-tzu-ai/</link>
       <pubDate>Thu, 21 Sep 2023 13:54:46 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/creating-sun-tzu-ai/</guid>
-      <description>As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.
-I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/sun-tzu/sun-tzu.png&#34; alt=&#34;img&#34;&gt;&#xA;As a Product Marketer who has been interested in AI and the latest evolutions of GenAI, I wasn’t sure how to be a creator rather than a consumer of AI. Sure, I talked to ChatGPT from time to time, used midjourney to generate images for my blog, but I’ve never really ‘built’ anything.&lt;/p&gt;&#xA;&lt;p&gt;I was watching a Stanford CS50 talk on GPT-4 where Ted Benson (founder of Steamship) described how easy it is to create a simple application using GPT technology, provided you know a bit of Python. That’s when it struck me. Hey… I know a bit of Python (‘a bit’ being the keyword here)! I took a SQL class several years ago where Python was used a little. Even though I can’t code with Python, between the basic webdev skills used to create this blog and the SQL Python lessons, I figured I’d give creating a GenAI bot a shot.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Great Product Marketing: Airbnb’s 2021 Winter Release</title>
       <link>https://xuanli.me/posts/great-pmm-airbnb/</link>
       <pubDate>Tue, 29 Aug 2023 08:40:57 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/great-pmm-airbnb/</guid>
-      <description>When people say “Product Marketing”, Apple and Steve Jobs are often the first names that pop up. Apple shaped how modern technology products are marketed and Steve Jobs was the driving force. Their bi-annual Apple events where they announce the soon-to-be-released products and their annual developers conference (WWDC) continue to be the most watched product releases in the world.
-It should come as no surprise then that Airbnb started releasing their updates in a similar way after hiring many of Apple’s marketing executives.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/great-pmm/airbnb-cover.png&#34; alt=&#34;img&#34;&gt;&#xA;When people say “Product Marketing”, Apple and Steve Jobs are often the first names that pop up. Apple shaped how modern technology products are marketed and Steve Jobs was the driving force. Their bi-annual Apple events where they announce the soon-to-be-released products and their annual developers conference (WWDC) continue to be the most watched product releases in the world.&lt;/p&gt;&#xA;&lt;p&gt;It should come as no surprise then that Airbnb started releasing their updates in a similar way after hiring many of Apple’s marketing executives. However, Apple’s influence on Airbnb goes beyond marketing: co-founders Brian Chesky and Joe Gebbia both came from design backgrounds and have stated the impact that Apple’s philosophy had on their lives.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go to Market Template for Consumer Products</title>
       <link>https://xuanli.me/posts/go-to-market-template/</link>
       <pubDate>Wed, 16 Aug 2023 10:02:28 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/go-to-market-template/</guid>
-      <description>This template is designed to help consumer Product Marketers communicate their launch strategy to internal stakeholders. My former manager would always say: “this document should be a waterfall - each section should logically flow into the next.” For example, after defining the user pain points and key insight, the messaging framework should seem like it’s addressing those specific pain points. Having this logical progression makes it easier for teammates to follow along and understand the plan.</description>
+      <description>&lt;p&gt;This template is designed to help consumer Product Marketers communicate their launch strategy to internal stakeholders. My former manager would always say: “this document should be a waterfall - each section should logically flow into the next.” For example, after defining the user pain points and key insight, the messaging framework should seem like it’s addressing those specific pain points. Having this logical progression makes it easier for teammates to follow along and understand the plan.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Great Product Marketing: 2021 Ford Bronco</title>
       <link>https://xuanli.me/posts/great-pmm-bronco/</link>
       <pubDate>Thu, 12 Jan 2023 09:40:22 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/great-pmm-bronco/</guid>
-      <description>Vintage bronco, made with Midjourney
-This is the first in a series of Great Product Marketing posts where I dive into a company’s product marketing that I love. I find myself looking at the details of product launches, trying to piece together the Messaging Framework, and thinking about how it all came together.
-The Ford Bronco relaunched to much fanfare and excitement in 2021. People had been cooped up inside due to the pandemic and wanted to be outside again.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/great-pmm/bronco-ai.png&#34; alt=&#34;img&#34;&gt;&#xA;&lt;em&gt;Vintage bronco, made with Midjourney&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the first in a series of &lt;a href=&#34;https://www.xuanli.me/tags/great-product-marketing/&#34;&gt;Great Product Marketing&lt;/a&gt; posts where I dive into a company’s product marketing that I love. I find myself looking at the details of product launches, trying to piece together the Messaging Framework, and thinking about how it all came together.&lt;/p&gt;&#xA;&lt;p&gt;The Ford Bronco relaunched to much fanfare and excitement in 2021. People had been cooped up inside due to the pandemic and wanted to be outside again. National Parks were getting overrun with visitors and campsites were getting booked up instantly - the timing was perfect to reintroduce the off-road capable, sporty Bronco.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blog Workflow</title>
       <link>https://xuanli.me/posts/blog-workflow/</link>
       <pubDate>Sun, 23 Jan 2022 14:25:10 -0800</pubDate>
-      
       <guid>https://xuanli.me/posts/blog-workflow/</guid>
-      <description>For people who don’t create websites regularly, the process of setting up a blog and writing consistently and figuring out how to use products like Hugo and GitHub can be daunting. I hope this can shed some light on what my setup is and provide some useful resources to get started.
-To be honest, I’m writing this post because it’s been a few months since I’ve published a blog post and I’ve started to forget all of the necessary steps and commands.</description>
+      <description>&lt;p&gt;For people who don’t create websites regularly, the process of setting up a blog and writing consistently and figuring out how to use products like Hugo and GitHub can be daunting. I hope this can shed some light on what my setup is and provide some useful resources to get started.&lt;/p&gt;&#xA;&lt;p&gt;To be honest, I’m writing this post because it’s been a few months since I’ve published a blog post and I’ve started to forget all of the necessary steps and commands. This post started out as a way of documenting the steps and specific commands in Terminal for Hugo and GitHub, but I figured it would be a good opportunity to write about my overall workflow as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Basics of Positioning</title>
       <link>https://xuanli.me/posts/basics-of-positioning/</link>
       <pubDate>Fri, 14 Jan 2022 23:16:28 -0800</pubDate>
-      
       <guid>https://xuanli.me/posts/basics-of-positioning/</guid>
-      <description>Positioning is a word that is thrown around a lot and seems to morph into whatever vague definition the speaker wants it to mean. Sometimes it’s used to describe aspects of a marketing campaign and other times it’s used in competitive landscape discussions. I’ve thought about positioning a lot recently at my job and I wanted to put together a basic guide on positioning within the Tech world.
-There are lots of definitions of positioning:</description>
+      <description>&lt;p&gt;Positioning is a word that is thrown around a lot and seems to morph into whatever vague definition the speaker wants it to mean. Sometimes it’s used to describe aspects of a marketing campaign and other times it’s used in competitive landscape discussions. I’ve thought about positioning a lot recently at my job and I wanted to put together a basic guide on positioning within the Tech world.&lt;/p&gt;&#xA;&lt;p&gt;There are lots of definitions of positioning:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lessons from a startup that translated into Big Tech</title>
       <link>https://xuanli.me/posts/lessons-from-a-startup/</link>
       <pubDate>Sat, 31 Jul 2021 11:04:27 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/lessons-from-a-startup/</guid>
-      <description>Our startup at an offsite where we graffitied a wall in SF
-Before joining Lyft, I worked at a YC startup for several years in Business Development, Growth, and Product Marketing roles. I was employee #18 when I joined and we eventually grew to ~40 people before being acquired by Lyft in 2017. We built a good product with millions of app installs, but we never found a path to becoming a billion-dollar business.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/lessons-startup/startup-offsite.JPG&#34; alt=&#34;img&#34;&gt;&#xA;&lt;em&gt;Our startup at an offsite where we graffitied a wall in SF&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before joining Lyft, I worked at a YC startup for several years in Business Development, Growth, and Product Marketing roles. I was employee #18 when I joined and we eventually grew to ~40 people before being acquired by Lyft in 2017.  We built a good product with millions of app installs, but we never found a path to becoming a billion-dollar business. VC money is a bit of a double-edged sword in that sense - after raising $35M, it was billion dollar exit or bust for us.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Product Marketing Messaging Framework</title>
       <link>https://xuanli.me/posts/product-marketing-messaging-framework/</link>
       <pubDate>Thu, 10 Jun 2021 16:46:55 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/product-marketing-messaging-framework/</guid>
-      <description>Contents
- What is a Messaging Framework? The Get Framework Messaging Framework Let&amp;rsquo;s Do An Example  What is a Messaging Framework? The goal of the messaging framework is to clearly lay out the main message of campaign and why it is believable to the audience. In other words - what are you trying to tell the customer and why should they trust you? The messaging framework is most fundamental part of the Product Marketing brief and if done correctly, it will allow the rest of the elements of the brief to come together.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-is-a-messaging-framework&#34;&gt;What is a Messaging Framework?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#the-get-framework&#34;&gt;The Get Framework&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#messaging-framework&#34;&gt;Messaging Framework&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#lets-do-an-example&#34;&gt;Let&amp;rsquo;s Do An Example&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;what-is-a-messaging-framework&#34;&gt;What is a Messaging Framework?&lt;/h1&gt;&#xA;&lt;p&gt;The goal of the messaging framework is to clearly lay out the main message of campaign and why it is believable to the audience. In other words - what are you trying to tell the customer and why should they trust you?  The messaging framework is most fundamental part of the Product Marketing brief and if done correctly, it will allow the rest of the elements of the brief to come together.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tech Marketing Roles</title>
       <link>https://xuanli.me/posts/tech-marketing-roles/</link>
       <pubDate>Thu, 20 May 2021 08:40:42 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/tech-marketing-roles/</guid>
-      <description>One of my friends was looking to switch industries recently and mentioned that seeing all of the different marketing roles in Tech was pretty confusing for someone on the outside. The names of roles aren&amp;rsquo;t always consistent across companies and the job descriptions are generic enough that it&amp;rsquo;s hard to tell what type of work you&amp;rsquo;d be doing.
-I&amp;rsquo;ve tried to group the roles into larger buckets and give short descriptions of the work you&amp;rsquo;d do as a reference guide to those looking at marketing career pathways in Tech.</description>
+      <description>&lt;p&gt;One of my friends was looking to switch industries recently and mentioned that seeing all of the different marketing roles in Tech was pretty confusing for someone on the outside. The names of roles aren&amp;rsquo;t always consistent across companies and the job descriptions are generic enough that it&amp;rsquo;s hard to tell what type of work you&amp;rsquo;d be doing.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve tried to group the roles into larger buckets and give short descriptions of the work you&amp;rsquo;d do as a reference guide to those looking at marketing career pathways in Tech.  I hope this is useful for college grads or professionals looking to jump into Tech. A few things to note:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About This Site</title>
       <link>https://xuanli.me/posts/about-this-site/</link>
       <pubDate>Fri, 07 May 2021 22:14:35 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/about-this-site/</guid>
-      <description>I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the Way Back Machine.
-May 17, 2021 Increasing the font-size has been a bit of a pain. Unfortunately, the creator used a mix of absolute and relative font sizing in the CSS.</description>
+      <description>&lt;p&gt;I want to create a living journal of some of the decisions I made to customize this site that could potentially help others looking to build something similar. This post will be updated every time I make a substantial change. Hopefully in the future, this will be my own version of the &lt;a href=&#34;https://archive.org/web/&#34;&gt;Way Back Machine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;may-17-2021&#34;&gt;May 17, 2021&lt;/h2&gt;&#xA;&lt;p&gt;Increasing the font-size has been a bit of a pain. Unfortunately, the creator used a mix of absolute and relative font sizing in the CSS. So while some fonts scale up after changing the main font from size 14 -&amp;gt; size 16, others remained small. It took a bit of time to go through and update.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Learning Chinese as an ABC</title>
       <link>https://xuanli.me/posts/learning-chinese-as-an-abc/</link>
       <pubDate>Wed, 07 Apr 2021 21:52:50 -0700</pubDate>
-      
       <guid>https://xuanli.me/posts/learning-chinese-as-an-abc/</guid>
-      <description>Chinese student studying at desk, storyboard, simplified sketch, gestural lines &amp;ndash; midjourney
-Ok, so I&amp;rsquo;m not really an ABC (American Born Chinese). I was born in Beijing, but I came to the US when I was 5 so I think that&amp;rsquo;s pretty close. I speak Mandarin / Chinglish mostly with my parents over the phone and sometimes at restaurants. I love watching Chinese movies, TV shows, and YouTube videos though sometimes I don&amp;rsquo;t understand the parts of the dialogue.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://xuanli.me/images/learn-chinese/study.png&#34; alt=&#34;img&#34;&gt;&#xA;&lt;em&gt;Chinese student studying at desk, storyboard, simplified sketch, gestural lines &amp;ndash; midjourney&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ok, so I&amp;rsquo;m not really an ABC (American Born Chinese). I was born in Beijing, but I came to the US when I was 5 so I think that&amp;rsquo;s pretty close. I speak Mandarin / Chinglish mostly with my parents over the phone and sometimes at restaurants. I love watching Chinese movies, TV shows, and YouTube videos though sometimes I don&amp;rsquo;t understand the parts of the dialogue. I prefer having subtitles on even if I can comprehend most of it. It&amp;rsquo;s a bit of a crutch. And if the show is set in historical China, subtitles are a must.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://xuanli.me/about/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      
       <guid>https://xuanli.me/about/</guid>
-      <description>Pronounced Schwinn, like the bike I live in San Francisco and work as a Product Marketer at Lyft. I started this blog as a way to practice some of the web dev concepts I had learned for fun as well as write longer posts about various topics. I admire people who write consistently and are able to clearly articulate a certain idea or give me a glimpse of a different life.</description>
+      <description>&lt;h1 id=&#34;pronounced-schwinn-like-the-bike&#34;&gt;Pronounced Schwinn, like the bike&lt;/h1&gt;&#xA;&lt;p&gt;I live in San Francisco and work as a Product Marketer at Lyft. I started this blog as a way to practice some of the web dev concepts I had learned for fun as well as write longer posts about various topics. I admire people who write consistently and are able to clearly articulate a certain idea or give me a glimpse of a different life. I figured this blog could be a good way to improve my writing skills and share some of the projects that I work on.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
